@@ -1,0 +1,83 @@
+html body {
+  font-family: "Montserrat", Verdana, sans-serif;
+  background-image: url("https://unsplash.com/photos/p-bkdO43shE");
+}
+
+.timg {
+  width: 13rem
+}
+
+.timg1 {
+  width: 65rem;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+  padding-top: 1.875
+}
+
+.sit-on-top {
+  position: fixed;
+}
+
+nav {
+  background-color: white
+}
+
+.logo-p {
+  font-size: 2.5rem;
+  text-decoration: none;
+  color: black
+}
+
+.padding {
+  padding: 0 0 0 0;
+  background-color: White;
+}
+
+
+
+.p {
+  font-family: "Montserrat", Times;
+  margin-top: 14.375rem;
+  font-size: 2rem
+}
+
+.p2 {
+  font-family: "Montserrat", Times;
+  padding: 4em;
+  margin: 0 0 0 0;
+  padding-top: 0;
+}
+
+.inline-element {
+  display: inline
+}
+
+.hr-1 {
+  width: 30rem;
+  align-items: left;
+  color: black;
+}
+
+.h3 {
+  margin-left: 3rem;
+  margin-right: 3px;
+}
+
+.p-1 {
+  margin-left: 3rem;
+  margin-right: 3rem;
+  text-align: justify;
+}
+
+
+.main-navigation {
+    box-shadow: 0 2px 2px -2px rgba(0,0,0,.2);
+}
+
+
+.bg-image {
+
+  background-image:
+
+    url("https://images.unsplash.com/photo-1423853978401-35df4077ff7d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80");
+}
